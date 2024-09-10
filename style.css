@@ -54,6 +54,7 @@ header {
 main {
     width: 100%;
     height: auto;
+    background-color: blue;
 }
 
 section {
